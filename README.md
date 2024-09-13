@@ -22,10 +22,10 @@
 # 📊 | GitHub Stats |
 <div>
   <a href="https://github.com/PLeonLopes">
-    <img width="39%" align="center" src="https://github-readme-stats.vercel.app/api?username=PLeonLopes&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
+    <img width="400em" align="center" src="https://github-readme-stats.vercel.app/api?username=PLeonLopes&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
   </a>
   <a href="https://github.com/PLeonLopes">
-    <img width="39%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PLeonLopes&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+    <img width="400em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PLeonLopes&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
   </a>
 </div>
 
